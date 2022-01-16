@@ -1,0 +1,28 @@
+#logo {
+	height:50px;
+}
+
+.navbar-brand {
+	height: 60px;
+	padding: 5px 0px;
+}
+
+html, body {
+  margin: 0px;
+  background: #0A1829;
+  height: 100%;
+  font-family: sans-serif;
+  color: white;
+}
+
+.node-cluster circle {
+    fill: gray;
+    stroke: steelblue;
+    stroke-width: 1.5px;
+}
+
+.link-cluster {
+    fill: none;
+    stroke: #8da0cb;
+    stroke-width: 1.5px;
+}
